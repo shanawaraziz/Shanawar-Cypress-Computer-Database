@@ -11,8 +11,8 @@ This Cypress project uses Cucumber and Gherkin to implement following test case 
 
 # HOW TO RUN:
 
-Run the project using following command:
-
+Run the project using following commands:
+`npm install`
 `npx cypress open`
 
 
