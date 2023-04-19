@@ -3,8 +3,9 @@
 # HOW TO RUN:
 
 Run the project using following commands:
-`npm install`
-`npx cypress open`
+* npm install
+
+* npx cypress open
 
 # INTRODUCTION:
 
